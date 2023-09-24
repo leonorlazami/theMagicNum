@@ -44,7 +44,7 @@ The Magic Number Game is an interactive web application developed using ReactJS 
 
 ### Links
 
-- Live Site URL: [The Magic Number](https://the-magic-num.vercel.app/)
+- Live Site URL: [The Magic Number Demo](https://the-magic-num.vercel.app/)
 
 ## My process
 

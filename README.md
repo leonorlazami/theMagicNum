@@ -68,4 +68,4 @@ The Magic Number Game is an interactive web application developed using ReactJS 
 ## Author
 
 - Leonor Lazami
-- GitHub: https://github.com/leonorlazami(
+- GitHub: https://github.com/leonorlazami

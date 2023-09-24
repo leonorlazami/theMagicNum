@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Magic Number Game is an interactive web application developed using ReactJS and styled with Tailwind CSS. This engaging game predicts the sum of numbers based on a 5-digit number provided by the user, offering hours of entertainment and challenge.
+The Magic Number Game is an interactive web application developed using ReactJS and styled with Tailwind CSS. This engaging game predicts the sum of numbers based on a 5-digit number provided by the user, offering entertainment.
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ The Magic Number Game is an interactive web application developed using ReactJS 
 
 ### Links
 
-- Live Site URL: [Vercel](https://the-magic-num.vercel.app/)
+- Live Site URL: [The Magic Number](https://the-magic-num.vercel.app/)
 
 ## My process
 
@@ -60,7 +60,7 @@ The Magic Number Game is an interactive web application developed using ReactJS 
 
 ## Installation
 
-1. Clone this repository to your local machine using Git: git clone [ https://github.com/leonorlazami/magic-number-game.git](https://github.com/leonorlazami/theMagicNum)
+1. Clone this repository to your local machine using Git: git clone [https://github.com/leonorlazami/theMagicNum.git](https://github.com/leonorlazami/theMagicNum.git)
 2. Navigate to the project directory: cd magic-number-game
 3. Install the required dependencies: npm install
 4. Start the development server : npm start

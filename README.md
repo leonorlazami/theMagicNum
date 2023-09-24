@@ -60,10 +60,10 @@ The Magic Number Game is an interactive web application developed using ReactJS 
 
 ## Installation
 
-1. Clone this repository to your local machine using Git: git clone https://github.com/leonorlazami/magic-number-game.git
+1. Clone this repository to your local machine using Git: git clone [ https://github.com/leonorlazami/magic-number-game.git](https://github.com/leonorlazami/theMagicNum)
 2. Navigate to the project directory: cd magic-number-game
 3. Install the required dependencies: npm install
-4.Start the development server : npm start
+4. Start the development server : npm start
 
 ## Author
 
